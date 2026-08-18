@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/000000/FFFFFF?text=Scrapdiver" alt="Scrapdiver Banner">
+  ![Scrapdiver](assets/scrapdiver.png)
   <h1>🌊 Scrapdiver</h1>
   <p><b>Advanced Screenscraping & OCR Text Extraction Tool</b></p>
 </div>
