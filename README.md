@@ -1,5 +1,5 @@
+![Scrapdiver](assets/scrapdiver.png)
 <div align="center">
-  ![Scrapdiver](assets/scrapdiver.png)
   <h1>🌊 Scrapdiver</h1>
   <p><b>Advanced Screenscraping & OCR Text Extraction Tool</b></p>
 </div>
