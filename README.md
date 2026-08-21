@@ -17,7 +17,7 @@ Contact: eusmool@gmail.com
 
 ## 🚀 Installation
 
-**Coming Soon!** You will soon be able to install the best stable version (v1.0.0) directly via pip:
+Install the best stable version (v1.0.0) directly via pip:
 ```bash
 pip install scrapdiver
 ```
